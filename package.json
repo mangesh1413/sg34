@@ -3,11 +3,13 @@
   "version": "0.0.1",
   "description": "a project to showcase workflows",
   "main": "index.js",
-  
   "repository": {
     "type": "git",
     "url": "?.git"
   },
-  "author": "Mangesh Gorkar"
-  
+  "author": "Mangesh Gorkar",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
